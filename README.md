@@ -1,2 +1,7 @@
 # Severe_Thunderstorm_Climatology_2020
 Python weather analysis application that compares the occurrence of severe thunderstorm activity occurring over the continental Unites States to daily international sunspot number measurements.
+
+Overview: December 2019 was confirmed as the starting point of the new solar activity cycle. 
+
+Abstract:
+The reference date and amplitudes of the minima and maxima of the 11-year solar cycle are established based on the sunspot number maintained and distributed by the SILSO World Datacenter since 1981 at the Royal Observatory of Belgium. Sunspots are dark areas that become apparent at the Sun’s photosphere due to intense upward-forced magnetic flux from further within the solar interior. Heating areas along the magnetic flux in the upper photosphere and chromosphere become visible as faculae, causing cooler (7000 F), less dense, and darker areas at the core of these magnetic fields than in the surrounding photosphere (10,000 F). The resulting visible phenomenon is thus seen as sunspots. Active regions associated with sunspot groups are usually visible as bright enhancements in the corona at EUV and X-ray wavelengths. Recent studies of the potential impact of sunspot activity on global weather and climate patterns have identified relationships between sunspot number and, collectively, south Asian Monsoon rainfall patterns (Rao 1976) and thunderstorm activity over central Europe (Schlegel et al. 2001). 
