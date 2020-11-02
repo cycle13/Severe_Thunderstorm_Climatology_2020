@@ -1,9 +1,11 @@
 # Severe_Thunderstorm_Climatology_2020
-Python weather analysis application that compares the occurrence of severe thunderstorm activity occurring over the continental Unites States (CONUS) to daily international sunspot number measurements.
+## Python weather analysis application that compares the occurrence of severe thunderstorm activity occurring over the continental Unites States (CONUS) to daily international sunspot number measurements.
 
-Overview:  December 2019 was confirmed as the starting point of the new solar activity cycle, in which sunspot activity was observed to be at an 11-year minimum. Through the winter and spring of 2020, sunspot number gradually increased with corresponding significant severe thunderstorm outbreaks occurring in the continental United States (CONUS) during February and April 2020.
+## Overview:  
+December 2019 was confirmed as the starting point of the new solar activity cycle, in which sunspot activity was observed to be at an 11-year minimum. Through the winter and spring of 2020, sunspot number gradually increased with corresponding significant severe thunderstorm outbreaks occurring in the continental United States (CONUS) during February and April 2020.
 
-Goals: This study investigates and derives a functional relationship (i.e., correlation) between sunspot number and severe thunderstorm activity over CONUS during the cold season, and compares to the results of previous studies, especially work as published at the Max Planck Institute (Schlegel et al. 2001). The following research questions are addressed:
+## Goals: 
+This study investigates and derives a functional relationship (i.e., correlation) between sunspot number and severe thunderstorm activity over CONUS during the cold season, and compares to the results of previous studies, especially work as published at the Max Planck Institute (Schlegel et al. 2001). The following research questions are addressed:
 1. What is the relationship between sunspot number and cold-season severe thunderstorm frequency?
 2. How can this relationship be quantified, modeled, and assessed?
 
