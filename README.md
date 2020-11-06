@@ -33,7 +33,8 @@ The reference date and amplitudes of the minima and maxima of the 11-year solar 
 <subauthor>BIS</subauthor>
 </storm-report>
 
-2) Daily sunspot number values from the [Sunspot Index and Long-term Solar Observations (SILSO)(http://sidc.be/silso/datafiles):
+
+2) Daily sunspot number values from the [Sunspot Index and Long-term Solar Observations (SILSO)](http://sidc.be/silso/datafiles):
 - File [SN_d_tot_V2.0_2019_2020.txt](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/blob/main/data/SN_d_tot_V2.0_2019_2020.txt) is in the [data](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/tree/main/data) folder.
 
 ## Contents:
