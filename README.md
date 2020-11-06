@@ -15,7 +15,7 @@ The reference date and amplitudes of the minima and maxima of the 11-year solar 
 ## Datasets:
 1) Storm Reports via [WxData API](https://wxdata.com/api-storm-reports-explorer) in XML format: 
 
-<data num_results="34 of 34 records returned">
+"<data num_results="34 of 34 records returned">
 <storm-report>
 <id>866704</id>
 <city>3 N BENTLEY</city>
@@ -31,11 +31,11 @@ The reference date and amplitudes of the minima and maxima of the 11-year solar 
 <remarks>TIME ESTIMATED BY RADAR.</remarks>
 <author>NWS</author>
 <subauthor>BIS</subauthor>
-</storm-report>
-
+</storm-report>"
 
 2) Daily sunspot number values from the [Sunspot Index and Long-term Solar Observations (SILSO)](http://sidc.be/silso/datafiles):
-- File [SN_d_tot_V2.0_2019_2020.txt](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/blob/main/data/SN_d_tot_V2.0_2019_2020.txt) is in the [data](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/tree/main/data) folder.
+- File [SN_d_tot_V2.0_2019_2020.txt](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/blob/main/data/SN_d_tot_V2.0_2019_2020.txt) is in the [data](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/tree/main/data) folder with the following format:
+  - 365 rows X 4 columns; column 1: year (YYYY), column 2: month (MM), column 3: day (DD), column 4: sunspot number
 
 ## Contents:
 In the Jupyter notebook "Thunderstorm_climatology_2020", execute each block in succession:
