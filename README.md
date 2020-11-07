@@ -38,7 +38,7 @@ The reference date and amplitudes of the minima and maxima of the 11-year solar 
 9) Build and train linear regression model: scatterplot of mean sunspot number vs storm report number.
 
 - [Background presentation](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/blob/main/data/JCETpresentation_Pryor_Abtahi.pptx) in [data](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/tree/main/data) folder.
--Data visualizations in [images](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/tree/main/images) folder.
+- Data visualizations in [images](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/tree/main/images) folder.
 
 ## Software:
 Python:
