@@ -14,24 +14,7 @@ The reference date and amplitudes of the minima and maxima of the 11-year solar 
 
 ## Datasets:
 ### Input data:
-1) Storm Reports via [WxData API](https://wxdata.com/api-storm-reports-explorer) in XML format: 
-
-<storm-report>
-<id>866704</id>
-<city>3 N BENTLEY</city>
-<state>ND</state>
-<county>HETTINGER</county>
-<latitude>46.37N</latitude>
-<longitude>102.06W</longitude>
-<event_local_time>2020-03-04 15:30:00</event_local_time>
-<event_local_timezone/>
-<event>TSTM WND GST</event>
-<magnitude>M81 MPH</magnitude>
-<source>MESONET</source>
-<remarks>TIME ESTIMATED BY RADAR.</remarks>
-<author>NWS</author>
-<subauthor>BIS</subauthor>
-</storm-report>
+1) Storm Reports via [WxData API](https://wxdata.com/api-storm-reports-explorer) in XML format. 
 
 2) Daily sunspot number values from the [Sunspot Index and Long-term Solar Observations (SILSO)](http://sidc.be/silso/datafiles):
 - File [SN_d_tot_V2.0_2019_2020.txt](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/blob/main/data/SN_d_tot_V2.0_2019_2020.txt) is in the [data](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/tree/main/data) folder with the following format:
