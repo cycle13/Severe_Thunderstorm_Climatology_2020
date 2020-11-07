@@ -16,7 +16,6 @@ The reference date and amplitudes of the minima and maxima of the 11-year solar 
 ### Input data:
 1) Storm Reports via [WxData API](https://wxdata.com/api-storm-reports-explorer) in XML format: 
 
-<data num_results="34 of 34 records returned">
 <storm-report>
 <id>866704</id>
 <city>3 N BENTLEY</city>
