@@ -25,18 +25,24 @@ The reference date and amplitudes of the minima and maxima of the 11-year solar 
   - 12 rows X 4 columns; column 1: period, column 2: total sunspot number, column 3: mean sunspot number, column 4: storm report number
 
 ## Contents:
-In the Jupyter notebook "Thunderstorm_climatology_2020", execute each block in succession:
+- Jupyter notebook [Thunderstorm_climatology_2020](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/blob/main/Thunderstorm_climatology_2020.ipynb)
+- Execute each block in succession:
 1) Exploratory Data Analysis (EDA): Invoke Requests to call the WxData Storm Reports API Builder.
-2) EDA/Data Cleaning: Define a function that builds a storm report listing for each semi-monthly period between November 2019 and April 2020.¶
-3) EDA: Print storm report and sunspot number lists for November - December 2019
-4) EDA: Print storm report and sunspot number lists for January - February 2020
-5) EDA: Print storm report and sunspot number lists for March - April 2020
-6) Build and train linear regression model: scatterplot of total sunspot number vs storm report number
-7) Build and train linear regression model: scatterplot of mean sunspot number vs storm report number
-8) Plot time series of total sunspot number vs storm report number
+2) Read daily total sunspot number dataset obtained from SILSO.
+3) EDA/Data Cleaning: Define a function that builds a storm report listing for each semi-monthly period between November 2019 and April 2020.¶
+3) EDA: Print storm report and sunspot number lists for November - December 2019.
+5) EDA: Print storm report and sunspot number lists for January - February 2020.
+6) EDA: Print storm report and sunspot number lists for March - April 2020.
+7) Plot time series of total sunspot number vs storm report number.
+8) Build and train linear regression model: scatterplot of total sunspot number vs storm report number.
+9) Build and train linear regression model: scatterplot of mean sunspot number vs storm report number.
+
+- [Background presentation](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/blob/main/data/JCETpresentation_Pryor_Abtahi.pptx) in [data](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/tree/main/data) folder.
+-Data visualizations in [images](https://github.com/kenpryor67/Severe_Thunderstorm_Climatology_2020/tree/main/images) folder.
 
 ## Software:
 Python:
-1) Pandas: https://pandas.pydata.org/pandas-docs/stable/index.html
-2) Scikit-learn: https://scikit-learn.org/stable/index.html
+1) [Matplotlib](https://matplotlib.org/)
+2) [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
+3) [Scikit-learn](https://scikit-learn.org/stable/index.html)
 
